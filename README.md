@@ -4,6 +4,10 @@ Your one stop shop for in-game combat management/calculation
 
 ## TODO
 
+Step 0
+
+- see the all my units
+
 Step 1
 
 - Create a unit of 20 skeletons
